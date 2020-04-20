@@ -4,7 +4,7 @@ Checks whether we can call the hello endpoint.
 
 import pytest
 
-from YOUR_PACKAGE import http_example
+from METERS_1 import http_example
 
 
 @pytest.fixture
