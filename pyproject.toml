@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "YOUR-PACKAGE"
+name = "METERS_1"
 version = "0.1.0"
-description = "ADD DESCRIPTION HERE"
-authors = ["Code Fairies Inc <noreply@santa.com>"]
+description = "pH and Flow meters"
+authors = ["Rob Knighton <rob.knighton10@gmail.com>"]
 license = "GPL-3.0"
 readme = "README.md"
 
